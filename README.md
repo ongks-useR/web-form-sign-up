@@ -9,4 +9,6 @@ Note:
 1. Make use of `Norse Bold` font face  
 2. Logo is provided by The Odin Project in the requirement. Refer to `odin-logo.png` in images folder  
 3. Credit of background image `unsplash-image.jpg` goes to [unsplash.com](https://unsplash.com/)  
-4. The project is based on sample provided by The Odin Project. Refer to `sign-up-form_sample.png` in images folder
+4. The project is based on sample provided by The Odin Project. Refer to `sign-up-form_sample.png` in images folder  
+
+Click [here](https://ongks-user.github.io/web-form-sign-up/) for completed sign-up landing page.
